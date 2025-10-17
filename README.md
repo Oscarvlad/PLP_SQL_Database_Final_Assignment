@@ -1,10 +1,7 @@
 # Library Management System – CRUD API
 
-**Submitted for**: Database Systems Assignment – Question 2  
-**Student Name**: [Your Full Name]  
-**Student ID**: [Your ID]  
-**Date**: October 17, 2025  
-
+**Submitted for**: Database Systems Assignment 
+**Student Name**: Emmanuel Oscar  
 ---
 
 ## 📌 Overview
@@ -32,7 +29,7 @@ The database schema is defined manually via SQL (`library_schema.sql`) to demons
 
 ### Prerequisites
 - Node.js (v16+)
-- MySQL Server (e.g., via XAMPP, MySQL Installer, or Docker)
+- MySQL Server = MySQL Installer
 - Git (optional, for cloning)
 
 ### Steps to Run
@@ -41,3 +38,8 @@ The database schema is defined manually via SQL (`library_schema.sql`) to demons
 2. **Install dependencies**:
    ```bash
    npm install
+3. ##  Running the Server
+Start the development server:
+```bash
+npm run dev
+```
