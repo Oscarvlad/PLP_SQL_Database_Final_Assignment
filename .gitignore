@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables (plaintext - NEVER commit)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+.pnpm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
