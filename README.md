@@ -38,7 +38,7 @@ The database schema is defined manually via SQL (`library_schema.sql`) to demons
 2. **Install dependencies**:
    ```bash
    npm install
-3. ##  Running the Server
+3. **Running the Server**
 Start the development server:
 ```bash
 npm run dev
